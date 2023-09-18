@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_1_task_66\bin\Debug\net6.0\HomeWork_C#_1_task_66.exe
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_1_task_66\bin\Debug\net6.0\HomeWork_C#_1_task_66.deps.json
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_1_task_66\bin\Debug\net6.0\HomeWork_C#_1_task_66.runtimeconfig.json
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_1_task_66\bin\Debug\net6.0\HomeWork_C#_1_task_66.dll
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_1_task_66\bin\Debug\net6.0\HomeWork_C#_1_task_66.pdb
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_1_task_66\obj\Debug\net6.0\HomeWork_C#_1_task_66.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_1_task_66\obj\Debug\net6.0\HomeWork_C#_1_task_66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_1_task_66\obj\Debug\net6.0\HomeWork_C#_1_task_66.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_1_task_66\obj\Debug\net6.0\HomeWork_C#_1_task_66.AssemblyInfo.cs
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_1_task_66\obj\Debug\net6.0\HomeWork_C#_1_task_66.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_1_task_66\obj\Debug\net6.0\HomeWork_C#_1_task_66.dll
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_1_task_66\obj\Debug\net6.0\refint\HomeWork_C#_1_task_66.dll
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_1_task_66\obj\Debug\net6.0\HomeWork_C#_1_task_66.pdb
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_1_task_66\obj\Debug\net6.0\HomeWork_C#_1_task_66.genruntimeconfig.cache
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_1_task_66\obj\Debug\net6.0\ref\HomeWork_C#_1_task_66.dll
