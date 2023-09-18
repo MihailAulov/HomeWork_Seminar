@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_4_task_27\bin\Debug\net6.0\HomeWork_C#_4_task_27.exe
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_4_task_27\bin\Debug\net6.0\HomeWork_C#_4_task_27.deps.json
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_4_task_27\bin\Debug\net6.0\HomeWork_C#_4_task_27.runtimeconfig.json
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_4_task_27\bin\Debug\net6.0\HomeWork_C#_4_task_27.dll
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_4_task_27\bin\Debug\net6.0\HomeWork_C#_4_task_27.pdb
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_4_task_27\obj\Debug\net6.0\HomeWork_C#_4_task_27.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_4_task_27\obj\Debug\net6.0\HomeWork_C#_4_task_27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_4_task_27\obj\Debug\net6.0\HomeWork_C#_4_task_27.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_4_task_27\obj\Debug\net6.0\HomeWork_C#_4_task_27.AssemblyInfo.cs
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_4_task_27\obj\Debug\net6.0\HomeWork_C#_4_task_27.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_4_task_27\obj\Debug\net6.0\HomeWork_C#_4_task_27.dll
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_4_task_27\obj\Debug\net6.0\refint\HomeWork_C#_4_task_27.dll
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_4_task_27\obj\Debug\net6.0\HomeWork_C#_4_task_27.pdb
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_4_task_27\obj\Debug\net6.0\HomeWork_C#_4_task_27.genruntimeconfig.cache
+C:\Users\User\Desktop\Обучение\C#\HomeWork_Seminar\HomeWork_C#_4_task_27\obj\Debug\net6.0\ref\HomeWork_C#_4_task_27.dll
